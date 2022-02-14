@@ -1,6 +1,6 @@
 from termcolor import colored as c
 
-n, l, h, w, r = c("Linux", "green"), len("Linux"), c("@", "red"), 15, range
+n, l, h, w, r = "Linux", len("Linux"), c("@", "red"), 15, range
 
 print(
 
